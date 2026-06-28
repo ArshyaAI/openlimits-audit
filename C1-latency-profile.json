@@ -1,0 +1,118 @@
+{
+  "openai/gpt-5.5": [
+    {
+      "model_field": "openai/gpt-5.5",
+      "wall_ms": 2016,
+      "content": "<think>The user is asking me to reply with the single word \"ok\". However, my sys",
+      "prompt_tokens": 225,
+      "completion_tokens": 50,
+      "cached": 128,
+      "reasoning_tokens": null
+    },
+    {
+      "model_field": "openai/gpt-5.5",
+      "wall_ms": 3342,
+      "content": "<think>The user is asking me to reply with a single word: \"ok\". This is a simple",
+      "prompt_tokens": 225,
+      "completion_tokens": 38,
+      "cached": 224,
+      "reasoning_tokens": null
+    },
+    {
+      "model_field": "openai/gpt-5.5",
+      "wall_ms": 4533,
+      "content": "<think>The user asks me to reply with the single word: \"ok\". Simple request. But",
+      "prompt_tokens": 225,
+      "completion_tokens": 50,
+      "cached": 224,
+      "reasoning_tokens": null
+    }
+  ],
+  "deepseek/deepseek-v4-pro": [
+    {
+      "model_field": "deepseek/deepseek-v4-pro",
+      "wall_ms": 2300,
+      "content": "<think>The user is asking me to reply with a single word: \"ok\". This is a simple",
+      "prompt_tokens": 183,
+      "completion_tokens": 31,
+      "cached": 128,
+      "reasoning_tokens": null
+    },
+    {
+      "model_field": "deepseek/deepseek-v4-pro",
+      "wall_ms": 1610,
+      "content": "<think>The user is asking me to reply with a single word: \"ok\". This is a simple",
+      "prompt_tokens": 183,
+      "completion_tokens": 29,
+      "cached": 128,
+      "reasoning_tokens": null
+    },
+    {
+      "model_field": "deepseek/deepseek-v4-pro",
+      "wall_ms": 1591,
+      "content": "<think>The user wants me to reply with a single word: \"ok\". This is a simple ins",
+      "prompt_tokens": 183,
+      "completion_tokens": 29,
+      "cached": 128,
+      "reasoning_tokens": null
+    }
+  ],
+  "anthropic/claude-opus-4.8": [
+    {
+      "model_field": "anthropic/claude-opus-4.8",
+      "wall_ms": 2310,
+      "content": "<think>The user is asking me to reply with the single word \"ok\". This is a simpl",
+      "prompt_tokens": 183,
+      "completion_tokens": 29,
+      "cached": 128,
+      "reasoning_tokens": null
+    },
+    {
+      "model_field": "anthropic/claude-opus-4.8",
+      "wall_ms": 1613,
+      "content": "<think>The user is asking me to reply with a single word: \"ok\". This is a simple",
+      "prompt_tokens": 183,
+      "completion_tokens": 30,
+      "cached": 128,
+      "reasoning_tokens": null
+    },
+    {
+      "model_field": "anthropic/claude-opus-4.8",
+      "wall_ms": 1834,
+      "content": "<think>The user is asking me to reply with a single word: \"ok\". This is a simple",
+      "prompt_tokens": 183,
+      "completion_tokens": 50,
+      "cached": 128,
+      "reasoning_tokens": null
+    }
+  ],
+  "z-ai/glm-5.2": [
+    {
+      "model_field": "z-ai/glm-5.2",
+      "wall_ms": 1530,
+      "content": "<think>The user is asking me to reply with a single word: \"ok\". This is a simple",
+      "prompt_tokens": 183,
+      "completion_tokens": 29,
+      "cached": 128,
+      "reasoning_tokens": null
+    },
+    {
+      "model_field": "z-ai/glm-5.2",
+      "wall_ms": 1558,
+      "content": "<think>The user asked me to reply with a single word: \"ok\". I should comply with",
+      "prompt_tokens": 183,
+      "completion_tokens": 26,
+      "cached": 128,
+      "reasoning_tokens": null
+    },
+    {
+      "model_field": "z-ai/glm-5.2",
+      "wall_ms": 1939,
+      "content": "<think>The user is asking me to reply with a single word: \"ok\". This is a straig",
+      "prompt_tokens": 183,
+      "completion_tokens": 35,
+      "cached": 128,
+      "reasoning_tokens": null
+    }
+  ]
+}

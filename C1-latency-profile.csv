@@ -1,0 +1,5 @@
+Requested Model,Trial 1 Latency (ms),Trial 2 Latency (ms),Trial 3 Latency (ms),Prompt Tokens,Completion Tokens,Cached Tokens
+openai/gpt-5.5,2016,3342,4533,225,50,128
+deepseek/deepseek-v4-pro,2300,1610,1591,183,31,128
+anthropic/claude-opus-4.8,2310,1613,1834,183,29,128
+z-ai/glm-5.2,1530,1558,1939,183,29,128

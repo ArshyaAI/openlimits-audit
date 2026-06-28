@@ -1,0 +1,15 @@
+{
+  "endpoint": "/v1/chat/completions",
+  "input_chars": 556,
+  "prompt_tokens": 482,
+  "completion_tokens": 100,
+  "prompt_tokens_details": {
+    "cached_tokens": 128
+  },
+  "completion_tokens_details": {
+    "reasoning_tokens": 99
+  },
+  "model_field": "openai/gpt-5.5",
+  "service_tier": null,
+  "content_preview": "<think>The user has sent what appears to be a list of scrambled or encoded words. Let me analyze this.\n\nLooking at the text:\n\"MARKER_706011277_ ctgdctop afn oss fpvaus hftcj wpusn chqxje bfh wwj qjjfgy bqngmhyr rvuf ukb wirkxlg totl kfzncbc erpkpmgo rcx gqcllywgn ncqv pdtouna mc</think>\n\n"
+}
